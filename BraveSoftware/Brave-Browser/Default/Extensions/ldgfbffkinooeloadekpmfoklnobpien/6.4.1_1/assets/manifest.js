@@ -1,0 +1,2 @@
+(()=>{var e={};e.g=function(){if("object"==typeof globalThis)return globalThis;try{return this||new Function("return this")()}catch(e){if("object"==typeof window)return window}}(),e.p="",("undefined"!=typeof window?window:void 0!==e.g?e.g:"undefined"!=typeof self?self:{}).SENTRY_RELEASE={id:"1624964803577"},(()=>{"use strict";e.p})()})();
+//# sourceMappingURL=manifest.js.map

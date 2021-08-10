@@ -1,0 +1,6 @@
+2021/07/22-10:12:31.264 24ef Creating DB /home/rhytham/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb since it was missing.
+2021/07/22-10:12:31.327 24ef Reusing MANIFEST /home/rhytham/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/22-10:13:52.561 23a6 Level-0 table #5: started
+2021/07/22-10:13:53.300 23a6 Level-0 table #5: 3051 bytes OK
+2021/07/22-10:13:53.860 23a6 Delete type=0 #3
+2021/07/22-10:13:53.861 23a6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

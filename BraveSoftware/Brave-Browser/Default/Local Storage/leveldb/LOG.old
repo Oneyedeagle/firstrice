@@ -1,0 +1,9 @@
+2021/08/07-12:40:49.096 3 Reusing MANIFEST /home/rhytham/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/08/07-12:40:49.099 3 Recovering log #78
+2021/08/07-12:40:49.554 3 Reusing old log /home/rhytham/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000078.log 
+2021/08/07-12:42:41.588 5 Level-0 table #82: started
+2021/08/07-12:42:41.683 5 Level-0 table #82: 21672 bytes OK
+2021/08/07-12:42:41.811 5 Delete type=0 #78
+2021/08/07-13:06:37.784 c Level-0 table #84: started
+2021/08/07-13:06:37.792 c Level-0 table #84: 21585 bytes OK
+2021/08/07-13:06:37.800 c Delete type=0 #81
